@@ -11,7 +11,7 @@
       "description": "キャンバスの横サイズ",
       "value": "1920"
     },
-    "TITLE": {
+    "CANVAS_HEIGHT": {
       "description": "キャンバスの縦サイズ",
       "value": "1080"
     }
