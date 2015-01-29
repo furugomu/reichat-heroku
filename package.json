@@ -1,0 +1,21 @@
+{
+  "name": "reichat-heroku",
+  "version": "0.0.1",
+  "description": "reichat on heroku",
+  "scripts": {
+    "start": "cd node_modules/reichat; node bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furugomu/reichat-heroku"
+  },
+  "author": "furugomu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furugomu/reichat-heroku/issues"
+  },
+  "homepage": "https://github.com/furugomu/reichat-heroku",
+  "dependencies": {
+    "reichat": "0.0.1"
+  }
+}
