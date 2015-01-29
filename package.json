@@ -1,9 +1,9 @@
 {
   "name": "reichat-heroku",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "reichat on heroku",
   "scripts": {
-    "start": "cd node_modules/reichat; node bin/server.js"
+    "start": "node $(npm bin)/reichat"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/furugomu/reichat-heroku",
   "dependencies": {
-    "reichat": "0.0.3"
+    "reichat": "0.0.4"
   }
 }
