@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "description": "reichat on heroku",
   "scripts": {
-    "start": "node $(npm bin)/reichat"
+    "start": "reichat"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/furugomu/reichat-heroku",
   "dependencies": {
-    "reichat": "0.0.4"
+    "reichat": "0.0.6"
   }
 }
