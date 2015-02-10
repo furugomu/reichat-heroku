@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/furugomu/reichat-heroku",
   "dependencies": {
-    "reichat": "0.0.10"
+    "reichat": "0.0.11"
   }
 }
