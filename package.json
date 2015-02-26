@@ -1,6 +1,6 @@
 {
   "name": "reichat-heroku",
-  "version": "0.0.4",
+  "version": "0.0.24",
   "description": "reichat on heroku",
   "scripts": {
     "start": "reichat"
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/furugomu/reichat-heroku",
   "dependencies": {
-    "reichat": "0.0.13"
+    "reichat": "0.0.24"
   }
 }
